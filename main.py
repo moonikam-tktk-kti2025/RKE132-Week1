@@ -1,4 +1,4 @@
-#kirjutada programm, mis küsib kasutajalt nime ja tervitab teda nimepidi
+#kirjutada programm, mis küsib kasutajalt nime ja tervitab teda nimepidi.
 
 #Algus
 #Küsi kasutajalt eesnimi
